@@ -1,0 +1,3 @@
+El dataset presentaba valores faltantes, entradas inválidas (“ERROR”, “UNKNOWN”), inconsistencias de tipo y errores en campos numéricos y fechas.
+Se aplicó un proceso sistemático de limpieza que incluyó normalización de columnas, tratamiento de valores inválidos, conversión de tipos, imputación basada en criterios estadísticos y reconstrucción de variables derivadas.
+El resultado es un dataset consistente y preparado para análisis exploratorio y visualización.
